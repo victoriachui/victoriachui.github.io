@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+{% include base_path %}
+
 Teaching Assistant
 ======
 
@@ -19,8 +21,6 @@ CCT202: [Human-Machine Communication](https://utm.calendar.utoronto.ca/course/cc
 **Winter 2024:**
 
 INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/). Master of Information course at the University of Toronto.
-
-{% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
