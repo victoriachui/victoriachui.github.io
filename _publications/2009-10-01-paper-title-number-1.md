@@ -1,5 +1,5 @@
 ---
-title: "Applying Human-Centered Data Science to Healthcare: Hyperlocal Modeling of COVID-19 Hospitalizations"
+title: 'Applying Human-Centered Data Science to Healthcare: Hyperlocal Modeling of COVID-19 Hospitalizations'
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We examine previous work in healthcare executed with a human-centered design, to analyze the multiple frameworks which effectively create human-centered application, as extended to healthcare.'
