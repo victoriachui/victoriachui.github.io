@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Peer-Reviewed Works
-===
+---
 
 
 {% if author.googlescholar %}
