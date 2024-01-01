@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 Teaching Assistant
-======
+------
 
 **Fall 2023:**
 
