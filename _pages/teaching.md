@@ -8,6 +8,15 @@ author_profile: true
 
 {% include base_path %}
 
+Instructor
+------
+
+**Summer 2024:**
+
+INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course at the University of Toronto.
+
+
+
 Teaching Assistant
 ------
 
