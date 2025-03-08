@@ -37,7 +37,7 @@ Teaching Assistant - University of Toronto
 Course Developer - Centennial College
 ------
 **2024**
-- DATA702: Data Foundations. Media, Arts, and Design course.
-- DATA707: Human-Centered Qualitative Data Collection and Analysis. Media, Arts, and Design course.
+- DATA702: [Data Foundations](https://db2.centennialcollege.ca/ce/coursedetail.php?CourseCode=DATA-702). Media, Arts, and Design course.
+- DATA707: [Human-Centered Qualitative Data Collection and Analysis](https://www.centennialcollege.ca/programs-courses/full-time/course/human-centred-qualitative-data). Media, Arts, and Design course.
 
 
