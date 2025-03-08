@@ -8,25 +8,25 @@ author_profile: true
 
 {% include base_path %}
 
-Instructor
+Instructor - University of Toronto
 ------
 
 **Summer 2024, 2025**
 
-INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course at the University of Toronto.
+INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course.
 
 
 
-Teaching Assistant
+Teaching Assistant - University of Toronto
 ------
 
 **Fall 2023, 2024**
 
-- INF1339: [Introduction to Computational Thinking](https://ischool.utoronto.ca/course/introduction-to-computational-thinking/). Master of Information course at the University of Toronto.
+- INF1339: [Introduction to Computational Thinking](https://ischool.utoronto.ca/course/introduction-to-computational-thinking/). Master of Information course.
 
 **Winter 2024, 2025**
 
-- INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/). Master of Information course at the University of Toronto.
+- INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/). Master of Information course.
 
 **Fall 2023**
 
@@ -34,10 +34,10 @@ Teaching Assistant
 
 
 
-Course Developer
+Course Developer - Centennial College
 ------
 **2024**
-- DATA702: Data Foundations. Media, Arts, and Design course at Centennial College.
-- DATA707: Human-Centered Qualitative Data Collection and Analysis. Media, Arts, and Design course at Centennial College.
+- DATA702: Data Foundations. Media, Arts, and Design course.
+- DATA707: Human-Centered Qualitative Data Collection and Analysis. Media, Arts, and Design course.
 
 
