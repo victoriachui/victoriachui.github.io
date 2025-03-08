@@ -11,7 +11,7 @@ author_profile: true
 Instructor
 ------
 
-**Summer 2024**
+**Summer 2024, 2025**
 
 INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course at the University of Toronto.
 
@@ -32,5 +32,12 @@ Teaching Assistant
 
 - CCT202: [Human-Machine Communication](https://utm.calendar.utoronto.ca/course/cct202h5). Communication, Culture, Information and Technology course at the University of Toronto, Mississauga.
 
+
+
+Course Developer
+------
+**2024**
+- DATA702: Data Foundations. Media, Arts, and Design course at Centennial College.
+- DATA707: Human-Centered Qualitative Data Collection and Analysis. Media, Arts, and Design course at Centennial College.
 
 
