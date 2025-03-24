@@ -1,7 +1,7 @@
 ---
 title: 'Towards Human-Centered Models in Healthcare: Development of Practical Applications for Surgical Wards'
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/thesis
 excerpt: 'This thesis outlines the process of implementing a human-centered design through model development, comparing results of these models to those previously seen in literature.'
 date: 2023-11-23
 venue: 'tspace.library.utoronto.ca'
