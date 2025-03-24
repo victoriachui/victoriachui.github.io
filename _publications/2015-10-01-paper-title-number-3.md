@@ -1,7 +1,7 @@
 ---
 title: 'Principles and Practices of Engaging Communities in Socially Responsible Deployment of Artificial Intelligence for Population Health: Findings from the AI for Diabetes Prediction and Prevention Project'
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'This presentation explores community engagement strategies for responsible AI development and deployment in Canadian public health settings.'
 date: 2025-03-24
 venue: 'Canadian Association for Health Services and Policy Research Conference'
