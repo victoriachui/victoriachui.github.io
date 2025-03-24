@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-Reviewed Works
+Peer-Reviewed Works and Presentations
 ---
 
 
