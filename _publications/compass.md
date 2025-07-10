@@ -1,10 +1,10 @@
 ---
-title: 'Principles and Practices of Engaging Communities in Socially Responsible Deployment of Artificial Intelligence for Population Health: Findings from the AI for Diabetes Prediction and Prevention Project'
+title: 'Towards Sustainable Community-Designed AI Systems in the Public Sector'
 collection: publications
-permalink: /publication/principles_practices
-excerpt: 'This presentation explores community engagement strategies for responsible AI development and deployment in Canadian public health settings.'
-date: 2025-03-24
-venue: 'Canadian Association for Health Services and Policy Research Conference'
-citation: 'Abejirinde IO, Itanyi I, Kornas K, Zaim R, Guha S, Chui V, Lipscombe L, Rosella L, Shaw J (2025, May 25–29). Principles and Practices of Engaging Communities in Socially Responsible Deployment of Artificial Intelligence for Population Health: Findings from the AI for Diabetes Prediction and Prevention Project. Canadian Association for Health Services and Policy Research Conference, Ottawa, Canada.'
+permalink: /publication/compass
+excerpt: 'This workshop aims to create a space for interdisciplinary dialogue, hands-on collaboration, and knowledge-sharing around the development of sustainable, community-informed AI systems in the public sector.'
+date: 2025-07-22
+venue: 'ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ’25)'
+citation: 'Victoria Chui, Kelly McConvey, Erina Seh-Young Moon, Maya Ghai, and Shion Guha. 2025. Towards Sustainable Community-Designed AI Systems in the Public Sector. In ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ’25), July 22–25, 2025, Toronto, ON, Canada. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3715335.3737683'
 ---
-This presentation explores community engagement strategies for responsible AI development and deployment in Canadian public health settings.
+This workshop aims to create a space for interdisciplinary dialogue, hands-on collaboration, and knowledge-sharing around the development of sustainable, community-informed AI systems in the public sector.
