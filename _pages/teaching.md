@@ -13,7 +13,7 @@ Instructor - University of Toronto
 
 **Winter 2026**
 
-INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/)). Master of Information course.
+INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/). Master of Information course.
 
 **Summer 2024, 2025**
 
