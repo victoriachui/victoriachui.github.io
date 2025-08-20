@@ -1,10 +1,10 @@
 ---
-title: 'Towards Sustainable Community-Designed AI Systems in the Public Sector'
+title: 'Principles and Practices of Community Engagement in Artificial Intelligence for Population Health: Insights from the AI for Diabetes Prediction and Prevention Project'
 collection: publications
-permalink: /publication/compass
-excerpt: 'This workshop aims to create a space for interdisciplinary dialogue, hands-on collaboration, and knowledge-sharing around the development of sustainable, community-informed AI systems in the public sector.'
-date: 2025-07-22
-venue: 'ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ’25)'
-citation: 'Victoria Chui, Kelly McConvey, Erina Seh-Young Moon, Maya Ghai, and Shion Guha. 2025. Towards Sustainable Community-Designed AI Systems in the Public Sector. In ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ’25), July 22–25, 2025, Toronto, ON, Canada. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3715335.3737683'
+permalink: /publication/jopm
+excerpt: 'This work presents a conceptual framework for community engagement on AI for Type 2 Diabetes care in Ontario.'
+date: 2025-08-20
+venue: 'Journal of Participatory Medicine'
+citation: 'Ibukun-Oluwa Omolade Abejirinde, Ijeoma Uchenna Itanyi, Kathy Kornas, Remziye Zaim, Shion Guha, Victoria Chui, Lorraine Lipscombe, Laura C Rosella and James Shaw. Principles and Practices of Community Engagement in Artificial Intelligence for Population Health: Insights from the AI for Diabetes Prediction and Prevention Project. Journal of Participatory Medicine. doi:10.2196/69497'
 ---
-This workshop aims to create a space for interdisciplinary dialogue, hands-on collaboration, and knowledge-sharing around the development of sustainable, community-informed AI systems in the public sector.
+This work presents a conceptual framework for community engagement on AI for Type 2 Diabetes care in Ontario.
