@@ -18,7 +18,6 @@ author_profile: true
 **INF3003 - Research in Information: Frameworks and Design.** October 2025. Gave a guest lecture on human-centered data science methods to a class of PhD students in Faculty of Information, University of Toronto.
 
 
-
 <!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
