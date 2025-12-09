@@ -15,6 +15,8 @@ author_profile: true
 
 **WRI363 - Communicating in a World of Data.** February 2024, March 2025. Gave a guest lecture on data visualization to a class of undergraduate students in the Communication, Culture, Information & Technology (CCIT) program at the University of Toronto Mississauga.
 
+**INF3003 - Research in Information: Frameworks and Design.** October 2025. Gave a guest lecture on human-centered data science methods to a class of PhD students in Faculty of Information, University of Toronto.
+
 
 
 <!-- {% if site.talkmap_link == true %}
