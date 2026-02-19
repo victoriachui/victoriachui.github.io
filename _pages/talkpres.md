@@ -11,7 +11,8 @@ author_profile: true
 
 **ACM SIGCSE Technical Symposium 2026** February 2026. _Integrating Human-Centered Data Science into Computing Education: Insights from Semi-Structured Interviews._ https://doi.org/10.1145/3770761.3777231
 
-<img width="974" height="729" alt="Screen Shot 2026-02-19 at 10 59 31 AM" src="https://github.com/user-attachments/assets/0abcee27-e923-40fb-80c6-454663ef255f" />
+<img width="869" height="630" alt="Screen Shot 2026-02-19 at 11 00 16 AM" src="https://github.com/user-attachments/assets/89ab26f0-ab3c-4731-883c-f96892eae218" />
+
 
 ## Public Lectures
 
