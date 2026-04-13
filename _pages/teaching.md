@@ -29,7 +29,7 @@ Teaching Assistant - University of Toronto
 
 **2025-2026**
 
-- Learning Hub Tutor: [Technical Skills](https://ischool.utoronto.ca/resources-and-supports/writing-support/)).
+- Learning Hub Tutor: [Technical Skills](https://ischool.utoronto.ca/resources-and-supports/writing-support/).
 
 **Fall 2023, 2024**
 
