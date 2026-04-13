@@ -11,18 +11,25 @@ author_profile: true
 Instructor - University of Toronto
 ------
 
+**Summer 2026**
+
+CCT111: [Critical Coding](https://utm.calendar.utoronto.ca/course/cct111h5)). Communication, Culture, Information and Technology course at the University of Toronto, Mississauga.
+
+**Summer 2024, 2025, 2026**
+
+INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course.
+
 **Winter 2026**
 
 INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/). Master of Information course.
 
-**Summer 2024, 2025**
-
-INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course.
-
-
 
 Teaching Assistant - University of Toronto
 ------
+
+**2025-2026**
+
+- Learning Hub Tutor: [Technical Skills](https://ischool.utoronto.ca/resources-and-supports/writing-support/)).
 
 **Fall 2023, 2024**
 
