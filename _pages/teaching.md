@@ -13,7 +13,7 @@ Instructor - University of Toronto
 
 **Summer 2026**
 
-CCT111: [Critical Coding](https://utm.calendar.utoronto.ca/course/cct111h5)). Communication, Culture, Information and Technology course at the University of Toronto, Mississauga.
+CCT111: [Critical Coding](https://utm.calendar.utoronto.ca/course/cct111h5). Communication, Culture, Information and Technology course at the University of Toronto, Mississauga.
 
 **Summer 2024, 2025, 2026**
 
