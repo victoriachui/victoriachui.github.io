@@ -9,6 +9,9 @@ main:
   - title: "Talks"
     url: /talkpres/  
 
+  - title: "Artifacts & Initiatives"
+    url: /initiatives/  
+
   - title: "Teaching"
     url: /teaching/    
     
