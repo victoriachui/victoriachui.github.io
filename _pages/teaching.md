@@ -27,6 +27,10 @@ INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/cour
 Teaching Assistant - University of Toronto
 ------
 
+**Fall 2026**
+
+- INF1340: [Programming for Data Science](https://ischool.utoronto.ca/course/programming-for-data-science/). Master of Information course.
+  
 **2025-2026**
 
 - Learning Hub Tutor: [Technical Skills](https://ischool.utoronto.ca/resources-and-supports/writing-support/).
@@ -35,7 +39,7 @@ Teaching Assistant - University of Toronto
 
 - INF1339: [Introduction to Computational Thinking](https://ischool.utoronto.ca/course/introduction-to-computational-thinking/). Master of Information course.
 
-**Winter 2024, 2025**
+**Winter 2024, 2025, 2027**
 
 - INF2178: [Experimental Design for Data Science](https://ischool.utoronto.ca/course/experimental-design-for-data-science/). Master of Information course.
 
